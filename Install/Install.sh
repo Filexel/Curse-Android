@@ -19,4 +19,4 @@ echo "curse-start — Запустить Curse Shell"
 echo "curse-exit — Выйти"
 
 
-2.0
+3.0
