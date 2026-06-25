@@ -11,12 +11,12 @@ sudo cp Start.sh $PREFIX/bin/curse-start
 sudo cp Exit.sh $PREFIX/bin/curse-exit
 
 # Даём права на выполнение
-chmod +x $PREFIX/bin/curse-start
-chmod +x $PREFIX/bin/curse-exit
+sudo chmod +x $PREFIX/bin/curse-start
+sudo chmod +x $PREFIX/bin/curse-exit
 
 echo "Установка завершена!"
 echo "curse-start — Запустить Curse Shell"
 echo "curse-exit — Выйти"
 
 
-1.0
+2.0
